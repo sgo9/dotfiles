@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = simon.gousset@gmail.com
+	name = Simon Gousset
